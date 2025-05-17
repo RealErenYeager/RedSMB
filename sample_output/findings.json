@@ -1,0 +1,18 @@
+[
+    {
+      "share": "Public",
+      "file": "creds.txt",
+      "matches": [
+        "username=admin",
+        "password=Welcome123"
+      ]
+    },
+    {
+      "share": "Backups",
+      "file": "deploy_script.ps1",
+      "matches": [
+        "token=abcd1234efgh5678"
+      ]
+    }
+  ]
+  
