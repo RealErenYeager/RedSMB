@@ -20,7 +20,7 @@ A Python-based penetration testing tool to automate SMB share enumeration, file 
 ```bash
 # Clone the repo
 $ git clone https://github.com/yourusername/smb_tool.git
-$ cd smb_tool
+$ cd RedSMB
 
 # Set up virtual environment (optional but recommended)
 $ python3 -m venv venv && source venv/bin/activate
