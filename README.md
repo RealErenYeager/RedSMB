@@ -74,12 +74,6 @@ impacket
 
 ---
 
-## 🧪 Screenshots / Demo
-
-&#x20;
-
----
-
 ## 🔐 Legal Notice
 
 This tool is intended for educational and authorized penetration testing purposes **only**. Unauthorized use is illegal and unethical.
@@ -90,14 +84,4 @@ This tool is intended for educational and authorized penetration testing purpose
 
 A sample red team PoC report is included as `PoC_Report.pdf`.
 
----
 
-## 📬 Contact
-
-For collaboration, reach out via GitHub or email: `yourname@protonmail.com`
-
----
-
-## 📃 License
-
-MIT License
